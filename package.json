@@ -11,6 +11,8 @@
   "engines": {
     "node": "~0.6.15"
   },
-  "dependencies": {},
+  "dependencies": {
+    "sift": "0.0.x"
+  },
   "devDependencies": {}
 }
