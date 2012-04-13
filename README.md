@@ -37,3 +37,4 @@ fiddler([{
 	name: "John",
 	age: 25
 }], sifter.test);
+```
