@@ -2,7 +2,7 @@
   "author": "Craig Condon",
   "name": "fiddle",
   "description": "mongodb inspired object manipulation",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/crcn/fiddle.js.git"
@@ -12,7 +12,11 @@
     "node": "~0.6.15"
   },
   "dependencies": {
-    "sift": "0.0.x"
+    "sift": "0.0.x",
+    "clone": "0.0.x",
+    "deep-equal": "0.0.x",
+    "traverse": "0.5.x",
+    "dref": "0.0.x"
   },
   "devDependencies": {}
 }
