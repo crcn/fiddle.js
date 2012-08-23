@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/crcn/fiddle.js.png)](http://travis-ci.org/crcn/fiddle.js)
 ### Features
 
 - supported operators: $inc, $set, $unset, $push, $pushAll, $addToSet, $each, $pop, $pull, $pullAll, $rename, $bit
