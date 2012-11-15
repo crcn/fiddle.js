@@ -8,9 +8,6 @@
     "url": "git://github.com/crcn/fiddle.js.git"
   },
   "main": "./lib/index.js",
-  "engines": {
-    "node": "~0.6.15"
-  },
   "dependencies": {
     "sift": "0.0.x",
     "clone": "0.0.x",
