@@ -15,5 +15,13 @@
     "traverse": "0.5.x",
     "dref": "0.0.x"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "mocha": "",
+    "istanbul": ""
+  },
+  "scripts": {
+    "test": "mocha",
+    "cover": "istanbul cover ./node_modules/mocha/bin/_mocha",
+    "postpublish": "git push origin master --tags"
+  }
 }
